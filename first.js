@@ -7,6 +7,6 @@ function updatebalance(value){
     balance+=value;
 }
 
-console.log(" Hello coder");
+console.log("Hello coder");
 
 console.log("Hello i am ok");
